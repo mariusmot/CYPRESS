@@ -2,7 +2,7 @@
   "baseUrl": "https://www.codecademy.com/login",
   "validUser": {
     "email": "marius.mot79@gmail.com",
-    "password": "R0man9a12"
+    "password": "TestingCJs!"
   },
   "inValidUser": {
     "email": "testUser@test.com",
