@@ -1,2 +1,4 @@
 testData.json
 node_modules
+cypress/screenshots/
+cypress/results/
